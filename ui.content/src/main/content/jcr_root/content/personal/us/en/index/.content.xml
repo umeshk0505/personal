@@ -2,7 +2,7 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2021-09-12T02:26:23.272+05:30"
+        cq:lastModified="{Date}2021-09-13T02:30:23.262+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/personal/settings/wcm/templates/page-content"
         jcr:primaryType="cq:PageContent"
@@ -28,7 +28,7 @@
                     <homebannerarea
                         jcr:created="{Date}2021-09-11T00:45:37.456+05:30"
                         jcr:createdBy="admin"
-                        jcr:lastModified="{Date}2021-09-12T02:23:04.498+05:30"
+                        jcr:lastModified="{Date}2021-09-12T03:15:43.307+05:30"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="personal/components/content/homebannerarea"
@@ -65,7 +65,7 @@
                     <tiletitle
                         jcr:created="{Date}2021-09-11T00:53:48.029+05:30"
                         jcr:createdBy="admin"
-                        jcr:lastModified="{Date}2021-09-11T00:54:39.659+05:30"
+                        jcr:lastModified="{Date}2021-09-13T02:30:23.255+05:30"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="personal/components/content/tiletitle"
@@ -340,7 +340,7 @@
                     <pricing_1979831685
                         jcr:created="{Date}2021-09-11T01:18:48.554+05:30"
                         jcr:createdBy="admin"
-                        jcr:lastModified="{Date}2021-09-11T01:19:10.270+05:30"
+                        jcr:lastModified="{Date}2021-09-13T02:20:28.454+05:30"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="personal/components/content/pricing"
@@ -349,7 +349,7 @@
                         prop1="Secure Online Tranfer"
                         prop2="Unlimited Styles for Interface"
                         prop3="Reliable Customer Services"
-                        type="Exxclusive">
+                        type="Exclusive">
                         <cq:responsive jcr:primaryType="nt:unstructured">
                             <default
                                 jcr:primaryType="nt:unstructured"
